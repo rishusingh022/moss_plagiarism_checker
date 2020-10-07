@@ -11,14 +11,13 @@ follow below steps-->
 
 3.open perl command window and change the directory of perl to the current window then type
 
-4.
-for c++ file type
--->perl moss.pl -l cc file1.cc file2.cc(make sure to make ur c++ extension to cc)
+4. for c++ file type
+   -->perl moss.pl -l cc file1.cc file2.cc(make sure to make ur c++ extension to cc)
 
-for java files type
--->perl moss.pl -l java file1.java file2.java
+   for java files type
+   -->perl moss.pl -l java file1.java file2.java
 
-for python files type
--->perl moss.pl -l py file1.py file2.py
+   for python files type
+   -->perl moss.pl -l py file1.py file2.py
 
-if facing anyproblem in commands checkout moss.pl file in the repo
+   if facing anyproblem in commands checkout moss.pl file in the repo

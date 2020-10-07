@@ -2,11 +2,15 @@
 initial commit had been made for cpp file which is represented as cc in moss
 
 to check plagiarism any 2 file
+follow below steps-->
 
 1.just u need to install perl on your system through the link given below
 -->http://strawberryperl.com/
+
 2.Fork the repo
+
 3.open perl command window and change the directory of perl to the current window then type
+
 4.
 for c++ file type
 -->perl moss.pl -l cc file1.cc file2.cc(make sure to make ur c++ extension to cc)
